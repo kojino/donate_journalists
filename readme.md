@@ -1,0 +1,1 @@
+# A chrome extension to help journalists. Created at AT&T hackathon.
